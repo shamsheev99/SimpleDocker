@@ -1,11 +1,6 @@
 # Simple Docker
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/6qcQSqdQnf7JD1iEA)
-
 Introduction to docker. Developing a simple docker image for your own server.
-
-The russian version of the task can be found in the repository.
 
 ## Contents
 
@@ -24,19 +19,6 @@ The russian version of the task can be found in the repository.
 
 
 ## Chapter I
-
-![simple_docker](misc/images/simple_docker.png)
-
-Planet Earth, Atlantic Ocean, Her Majesty's Ship "Hood", heading to London, UK, nowadays.
-
-You never liked moving. A lot of fuss, little action. But you managed to find a great job to delve into DevOps world in Foggy Albion.
-And you're not one to let minor difficulties ruin your plans.
-
-From your cabin window you hear the sound of the waves, the ship is peacefully rocking on them and you remember your favorite novel about the sea - "Moby Dick".
-Although the flow of the plot is far from straightforward, with many lyrical digressions and philosophical musings, you, like everyone else, associate this book primarily with Moby Dick himself - the white whale.
-
-"Hmm... White whale..." - here you remember that during the long journey you were going to work on docker.
-
 
 ## Chapter II
 
